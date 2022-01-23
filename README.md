@@ -32,3 +32,4 @@ logger('success', 'validation of data from user');
 logger('warning', 'password from user not is strong');
 
 ```
+<img src="https://github.com/spikeboss/wuun/blob/master/.github/wuun.png?raw=true" width="600px" />
